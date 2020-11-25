@@ -1,0 +1,22 @@
+M48
+; DRILL file {KiCad 5.1.5-5.1.5} date Sun 06 Sep 2020 13:46:46 AEST
+; FORMAT={3:3/ absolute / metric / suppress trailing zeros}
+; #@! TF.CreationDate,2020-09-06T13:46:46+10:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.1.5-5.1.5
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,LZ
+T1C3.500
+T2C4.500
+%
+G90
+G05
+T1
+X0889Y0
+X0Y0
+X0889Y-0889
+X0Y-0889
+T2
+X07366Y-0889
+T0
+M30
